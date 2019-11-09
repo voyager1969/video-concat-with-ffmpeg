@@ -20,3 +20,5 @@ There's exe file released!
 How to use: If you have ffmpeg installed (Environment variable PATH), drag and drop files into the program's window.
 
 Note: The method used is lossless merge(Direct stream copy), so each video clip must be the same encoding!
+
+————未对多段视频按文件名排序，待修改。
